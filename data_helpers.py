@@ -63,8 +63,8 @@ def load_data_and_labels(positive_data_file, negative_data_file):
 
     #y = positive_labels + negative_labels
 
-    print("ukuran y="+str(len(y)))
-    print("ukuran x="+str(len(x_text)))
+    #print("ukuran y="+str(len(y)))
+    #print("ukuran x="+str(len(x_text)))
     #setelah itu diproses menjadi vektor
     #return [x_text, y]
     #yw
